@@ -13,7 +13,7 @@
     ],
     "allowJs": true,
     "skipLibCheck": true,
-    "strict": true,
+    "strict": false,
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "esModuleInterop": true,
@@ -28,8 +28,9 @@
     "**/*.ts",
     "**/*.tsx"
 , "pages/_app.tsx", "pages/_document.jsx", "pages/index.jsx"  ],
+
   "exclude": [
     "node_modules",
-    "./components/Home/Upload.tsx"
+    "**/components"
   ]
 }

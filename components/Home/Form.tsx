@@ -8,7 +8,13 @@ interface FormData {
   
 }
 
-const Form: React.FC = ({ toggleModel, setResults, results }: any) => {
+interface FromInter{
+  toggleModel:any,
+  setResults:any,
+  results:any
+}
+
+const Form: React.FC <FromInter> = ({toggleModel, setResults, results}) => {
   const [formData, setFormData] = useState<FormData>({
     title: "",
     description: "",
