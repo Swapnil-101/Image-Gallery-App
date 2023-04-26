@@ -1,0 +1,70 @@
+[
+   {
+       "id": 1,
+       "title": "Sunset at the Beach",
+       "image": "https://images.unsplash.com/photo-1449034446853-66c86144b0ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&w=1000&q=80",
+       "description": "A serene sunset at the beach with golden hues reflecting on the calm waves."
+   },
+   {
+       "id": 2,
+       "title": "Majestic Mountains",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6obNJ2Wtv04dkWAIaRQGo76sFtGbGeZSM5MhPMGAk2tFPVyXc30RS871g6EUI2eL0hE&usqp=CAU",
+       "description": "A stunning view of snow-capped mountains towering against a clear blue sky."
+   },
+   {
+       "id": 3,
+       "title": "Vibrant Cityscape",
+       "image": "https://images.unsplash.com/photo-1674574124475-16dd78234342?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=60",
+       "description": "An electrifying cityscape at night with colorful lights and skyscrapers."
+   },
+   {
+       "id": 4,
+       "title": "Serenity of Nature",
+       "image": "https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZnJlZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "description": "A tranquil scene of a peaceful lake surrounded by trees and mountains."
+   },
+   {
+       "id": 5,
+       "title": "Autumn Beauty",
+       "image": "https://images.unsplash.com/photo-1535068876365-cd4947bab550?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTB8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
+       "description": "The breathtaking colors of autumn leaves in a forest during fall season."
+   },
+   {
+       "id": 6,
+       "title": "Cozy Cabin in the Woods",
+       "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGltZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+       "description": "A charming wooden cabin nestled in the peaceful woods, surrounded by tall trees."
+   },
+   {
+       "id": 7,
+       "title": "Aerial View of a Tropical Island",
+       "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixid=MnwxMjA3fDB8MHxwaG",
+       "description": "A charming wooden cabin nestled in the peaceful woods, surrounded by tall trees."
+   },
+   {
+    "id": 8,
+    "title": "Aerial View of a Tropical Island",
+    "image": "https://images.unsplash.com/photo-1538991383142-36c4edeaffde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZnJlZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "description": "A charming wooden cabin nestled in the peaceful woods, surrounded by tall trees."
+},
+{
+    "id": 9,
+    "title": "Sunset at the Beach",
+    "image": "https://images.unsplash.com/photo-1569317002804-ab77bcf1bce4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dW5zcGxhc2h8ZW58MHx8MHx8&w=1000&q=80",
+    "description": "A serene sunset at the beach with golden hues reflecting on the calm waves."
+},
+{
+    "id": 10,
+    "title": "Majestic Mountains",
+    "image": "https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZnJlZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "description": "A stunning view of snow-capped mountains towering against a clear blue sky."
+},
+{
+    "id": 11,
+    "title": "Vibrant Cityscape",
+    "image": "https://images.unsplash.com/photo-1535068876365-cd4947bab550?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTB8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
+    "description": "An electrifying cityscape at night with colorful lights and skyscrapers."
+}
+]
+
+
