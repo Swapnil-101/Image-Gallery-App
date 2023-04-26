@@ -29,6 +29,7 @@
     "**/*.tsx"
 , "pages/_app.tsx", "pages/_document.jsx", "pages/index.jsx"  ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "./components/Home/Upload.tsx"
   ]
 }
