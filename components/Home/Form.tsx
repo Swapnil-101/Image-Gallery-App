@@ -14,7 +14,8 @@ interface FromInter{
   results:any
 }
 
-const Form: React.FC <FromInter> = ({toggleModel, setResults, results}) => {
+const Form: React.FC <FromInter> = ({toggleModel, setResults, results}:any) => {
+  console.log("asda===>",setResults)
   const [formData, setFormData] = useState<FormData>({
     title: "",
     description: "",
@@ -43,10 +44,10 @@ const Form: React.FC <FromInter> = ({toggleModel, setResults, results}) => {
 
   const handleSubmit = (e: FormEvent) => {
     e.preventDefault();
-    console.log("formdata", formData, [
-      { ...formData, id: results.length + 1 },
-      ...results,
-    ]);
+    // console.log("formdata", formData, [
+    //   { ...formData, id: results.length + 1 },
+    //   ...results,
+    // ]);
     setResults([{ ...formData, id: results.length + 1 }, ...results]);
   };
 

@@ -1,13 +1,13 @@
 module.exports = {
   publicRuntimeConfig: {
     site: {
-      name: 'Next.js + Tailwind CSS template',
+      name: 'Gallery App',
       url:
         process.env.NODE_ENV === 'development'
           ? 'http://localhost:3000'
           : 'https://earvinpiamonte-nextjs-tailwindcss-template.vercel.app',
-      title: 'Next.js + Tailwind CSS template',
-      description: 'Next.js + Tailwind CSS template',
+      title: 'Gallery App',
+      description: 'Gallery App',
       socialPreview: '/images/preview.png',
     },
   },
